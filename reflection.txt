@@ -1,2 +1,5 @@
 
 Challenges:
+there were challenges of creating correct packages in correct folders and creatin an overral project 
+
+Ai tools were useful navigatin through this challenges and getting answers on some unclear things.
